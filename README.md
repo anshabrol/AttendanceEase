@@ -36,7 +36,7 @@ pip install opencv-python face-recognition numpy
 ## Usage
 1. **Run the Application**:
    ```bash
-   python AttendanceEase.py
+   python face_recog.py
    ```
 2. **Start Attendance Tracking**: Click **Start Tracking** in the GUI to begin recording attendance.
 3. **Add a New Person**: Click **Add New Person**, enter the name, and the system will capture photos for future recognition.
