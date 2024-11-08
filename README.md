@@ -1,4 +1,4 @@
-# Attendance Ease
+# AttendanceEase
 
 Attendance Ease is a facial recognition-based attendance tracking system, which captures real-time attendance of individuals using a camera and stores the data in a CSV file. The system allows adding and removing individuals from the database and tracking their attendance with a user-friendly graphical interface built with Tkinter.
 
